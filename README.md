@@ -1,10 +1,15 @@
 # testnet-faucets
-USDC & EURC https://faucet.circle.com/
+USDC & EURC 
+https://faucet.circle.com/
+
 Goerli Faucets - Goerli will get depreciated soon! Try to use Holesky or Sepolia instead
 
 https://faucet.quicknode.com/ethereum/goerli
+
 https://goerlifaucet.com/
+
 https://goerli-faucet.pk910.de/
+
 https://goerlifaucet.org/
 https://www.allthatnode.com/faucet/ethereum.dsrv - Goerli and Sepolia
 https://goerli-faucet.mudit.blog/
