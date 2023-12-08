@@ -1,6 +1,8 @@
 # testnet-faucets
 USDC & EURC 
+
 https://faucet.circle.com/
+
 
 Goerli Faucets - Goerli will get depreciated soon! Try to use Holesky or Sepolia instead
 
@@ -12,17 +14,23 @@ https://goerli-faucet.pk910.de/
 
 https://goerlifaucet.org/
 
-https://www.allthatnode.com/faucet/ethereum.dsrv - Goerli and Sepolia
+https://www.allthatnode.com/faucet/ethereum.dsrv 
+
+Goerli and Sepolia
 
 https://goerli-faucet.mudit.blog/
 
-https://faucet.goerli.starknet.io/ - Starknet Goerli
+https://faucet.goerli.starknet.io/ 
+
+Starknet Goerli
 
 https://faucet.triangleplatform.com/ethereum/goerli
 
 https://faucet.polygon.technology/
 
-https://grabteeth.xyz/ - Goerli and Sepolia
+https://grabteeth.xyz/
+
+Goerli and Sepolia
 
 https://testnetbridge.com/ - buy Goerli ETH with Mainnet ETH
 
